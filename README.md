@@ -10,7 +10,9 @@
 <!-- RAINBOW LINE TOP -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
+<br><br>
 ### 👨‍💻 About Me
 - 💼 Software Engineer at **Colombo Lotus Tower**  
 - 🎓 BSc (Hons) Computer Science (SE) – Kingston University (First Class)  
