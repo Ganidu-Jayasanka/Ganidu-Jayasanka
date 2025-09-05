@@ -63,17 +63,6 @@
 <!-- RAINBOW LINE TOP -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-### 💼 Experience
-**Colombo Lotus Tower – Software Engineer (2024–Present)**  
-- Built ERP, ticketing, visitor management, and parking automation systems (ASP.NET, C#, SQL, JS).  
-- Maintained Azure-hosted SQL DBs, backups, system performance, and deployments.  
-
-**AT&T Global Information Solutions (NCR) – QA Engineer (2022–2023)**  
-- Delivered secure ATM/CRM rollouts across 10+ banks (HNB, HSBC, Commercial Bank, etc.).  
-- Specialized in system hardening, log analysis, troubleshooting, and compliance.  
-
-**Dialog Axiata PLC – Operational Executive (2022)**  
-- Managed customer support, data accuracy, escalations, and KPIs.  
 
 
 
@@ -81,11 +70,4 @@
 <!-- RAINBOW LINE TOP -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-### 🔎 Open to Work
-- Full Stack .NET & Angular Development  
-- ERP system design, integration, and reporting  
-- Automation solutions (Robotics, IoT, Smart Parking)  
-- Freelance web apps and enterprise software projects  
 
-<!-- RAINBOW LINE TOP -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
