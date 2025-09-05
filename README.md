@@ -10,7 +10,7 @@
 - 🎓 BSc (Hons) Computer Science (SE) – Kingston University (First Class)  
 - 🌍 Based in **Colombo, Sri Lanka**  
 - 🔭 Experienced in ERP systems, ticketing, smart parking, visitor management  
-- 📫 Reach me: **ganidujayasanka@gmail.com**
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1ta6rBV9TUZZ3gtJ5NVs4TgYBEDW4NxIh/view?usp=sharing).
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
