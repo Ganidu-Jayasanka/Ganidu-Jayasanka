@@ -4,7 +4,7 @@
 <!-- RAINBOW LINE TOP -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer+;Full+Stack+Developer;Web+Developer;Competitive+Programer;Quality+Assurance+Software+Engineer;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%2387CEEB&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer+;Full+Stack+Developer;Web+Developer;Competitive+Programer;Quality+Assurance+Software+Engineer;"></a>
 </p>
 
 <!-- RAINBOW LINE TOP -->
