@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ganidu Jayasanka</h1>
 <h3 align="center">A passionate Software Engineer | Full Stack Developer | Web Developer</h3>
 
+- 🔭 I’m currently working on **Software Engineer**
+
+- 👯 I’m looking to collaborate on **Full Stack Development,Web Development**
+
+- 📫 How to reach me **ganidujayasanka@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
