@@ -2,7 +2,8 @@
 <h1 align="center">Hi 👋, I'm Ganidu Jayasanka</h1>
 <h3 align="center">Software Engineer | Full Stack .NET Developer | ERP Specialist</h3>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
 
 ### 👨‍💻 About Me
 - 💼 Software Engineer at **Colombo Lotus Tower**  
