@@ -62,4 +62,4 @@
 - Automation solutions (Robotics, IoT, Smart Parking)  
 - Freelance web apps and enterprise software projects  
 
----
+
