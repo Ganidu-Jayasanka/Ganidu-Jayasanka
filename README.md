@@ -9,8 +9,7 @@
 - 🌍 Based in **Colombo, Sri Lanka**  
 - 🔭 Experienced in ERP systems, ticketing, smart parking, visitor management  
 - 📫 Reach me: **ganidujayasanka@gmail.com**  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/ganidu-jayasanka/) | [Portfolio](https://ganidujayasanka.github.io/Portfolio/) | [GitHub](https://github.com/GaniduJayasanka)  
-
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ganidu-jayasanka/) 
 ---
 
 ### 💼 Experience
