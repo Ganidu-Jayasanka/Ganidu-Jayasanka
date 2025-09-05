@@ -24,7 +24,7 @@
 ### 🛠️ Languages 
 <p align="left">
 
-[![My Skills](https://skillicons.dev/icons?i=angular,dotnet,cs,html,css,js,bootstrap,ts,wordpress,azure,java,react,spring,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,dotnet,cs,html,css,js,bootstrap,ts,java,react,spring,ai,maven,mysql,nodejs)](https://skillicons.dev)
 </p>
 
 ### Tools
@@ -32,7 +32,7 @@
 <p align="left">
 
 
-[![My Skills](https://skillicons.dev/icons?i=eclipse,figma,git,github,idea,ai,maven,mysql,nodejs,postman,selenium,visualstudio,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=eclipse,figma,git,github,idea,postman,selenium,visualstudio,vscode,wordpress,azure,)](https://skillicons.dev)
 
 </p>
 
