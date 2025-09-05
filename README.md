@@ -64,5 +64,3 @@
 - Freelance web apps and enterprise software projects  
 
 ---
-
-<p align="center">✨ Made with passion in Colombo | Last updated: September 2025 ✨</p>
