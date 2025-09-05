@@ -12,7 +12,7 @@
 - 🔭 Experienced in ERP systems, ticketing, smart parking, visitor management  
 - 📫 Reach me: **ganidujayasanka@gmail.com**
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -21,7 +21,7 @@
 
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 ### 🛠️ Languages 
 <p align="left">
 
@@ -37,7 +37,7 @@
 
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ### 💼 Experience
 **Colombo Lotus Tower – Software Engineer (2024–Present)**  
@@ -54,7 +54,7 @@
 
 
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ### 🔎 Open to Work
 - Full Stack .NET & Angular Development  
