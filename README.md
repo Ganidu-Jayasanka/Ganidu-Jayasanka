@@ -45,18 +45,25 @@
 <!-- RAINBOW LINE TOP -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;"> Tech Stack 
-<p align="left">
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30"> Tech Stack  
 
-[![My Skills](https://skillicons.dev/icons?i=angular,dotnet,cs,html,css,js,bootstrap,ts,java,react,spring,ai,maven,mysql,nodejs)](https://skillicons.dev)
-</p>
+**Frontend Development**  
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,angular,react)](https://skillicons.dev)
+
+**Backend Development**  
+[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,java,spring,nodejs,maven)](https://skillicons.dev)
+
+**Databases**  
+[![My Skills](https://skillicons.dev/icons?i=mysql,azure)](https://skillicons.dev)
+
+
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
 
 <p align="left">
 
 
-[![My Skills](https://skillicons.dev/icons?i=eclipse,figma,git,github,idea,postman,selenium,visualstudio,vscode,wordpress,azure,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=eclipse,figma,git,github,idea,postman,selenium,visualstudio,vscode,wordpress)](https://skillicons.dev)
 
 </p>
 
