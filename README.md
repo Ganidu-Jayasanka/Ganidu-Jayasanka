@@ -13,10 +13,10 @@
 
 ### 👨‍💻 About Me
 - 💼 Software Engineer at **Colombo Lotus Tower**  
-- 🎓 BSc (Hons) Computer Science (SE) – Kingston University (First Class)  
-- 🌍 Based in **Colombo, Sri Lanka**  
-- 🔭 Experienced in ERP systems, ticketing, smart parking, visitor management  
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1ta6rBV9TUZZ3gtJ5NVs4TgYBEDW4NxIh/view?usp=sharing).
+- 🎓 BSc (Hons) Computer Science (Software Engineering) – Kingston University (First Class)   
+- 💡 Open to exciting opportunities in **Software Engineer / Full-Stack Developer / Web Developer**  
+- 📄 View my complete CV here → [MY RESUME](https://drive.google.com/file/d/1ta6rBV9TUZZ3gtJ5NVs4TgYBEDW4NxIh/view?usp=sharing)
+
 
 <!-- RAINBOW LINE TOP -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
