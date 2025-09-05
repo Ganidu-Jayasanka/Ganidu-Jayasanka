@@ -9,7 +9,9 @@
 - 🎓 BSc (Hons) Computer Science (SE) – Kingston University (First Class)  
 - 🌍 Based in **Colombo, Sri Lanka**  
 - 🔭 Experienced in ERP systems, ticketing, smart parking, visitor management  
-- 📫 Reach me: **ganidujayasanka@gmail.com**  
+- 📫 Reach me: **ganidujayasanka@gmail.com**
+
+  <br>
 <a href="https://www.linkedin.com/in/ganidu-jayasanka/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="kaveendinethma" height="50" width="50" /></a>
 <a href="https://web.facebook.com/Ganidu01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kaveen dinethma" height="50" width="50" /></a>
 
