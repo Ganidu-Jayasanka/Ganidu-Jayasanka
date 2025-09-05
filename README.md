@@ -6,13 +6,11 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%2387CEEB&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer+;Full+Stack+Developer;Web+Developer;Competitive+Programer;Quality+Assurance+Software+Engineer;"></a>
 </p>
-
 <!-- RAINBOW LINE TOP -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<br>
 
-<br><br>
 ### 👨‍💻 About Me
 - 💼 Software Engineer at **Colombo Lotus Tower**  
 - 🎓 BSc (Hons) Computer Science (SE) – Kingston University (First Class)  
