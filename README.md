@@ -11,26 +11,6 @@
 - 🔭 Experienced in ERP systems, ticketing, smart parking, visitor management  
 - 📫 Reach me: **ganidujayasanka@gmail.com**
 
-  <br>
-<a href="https://www.linkedin.com/in/ganidu-jayasanka/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="kaveendinethma" height="50" width="50" /></a>
-<a href="https://web.facebook.com/Ganidu01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kaveen dinethma" height="50" width="50" /></a>
-
----
-
-### 💼 Experience
-**Colombo Lotus Tower – Software Engineer (2024–Present)**  
-- Built ERP, ticketing, visitor management, and parking automation systems (ASP.NET, C#, SQL, JS).  
-- Maintained Azure-hosted SQL DBs, backups, system performance, and deployments.  
-
-**AT&T Global Information Solutions (NCR) – QA Engineer (2022–2023)**  
-- Delivered secure ATM/CRM rollouts across 10+ banks (HNB, HSBC, Commercial Bank, etc.).  
-- Specialized in system hardening, log analysis, troubleshooting, and compliance.  
-
-**Dialog Axiata PLC – Operational Executive (2022)**  
-- Managed customer support, data accuracy, escalations, and KPIs.  
-
-
-
 ---
 
 <h3 align="center">Connect with me:</h3>
@@ -58,6 +38,23 @@
 <a href="https://azure.microsoft.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/></a>
 <a href="https://www.postman.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/></a>
 </p>
+
+---
+
+### 💼 Experience
+**Colombo Lotus Tower – Software Engineer (2024–Present)**  
+- Built ERP, ticketing, visitor management, and parking automation systems (ASP.NET, C#, SQL, JS).  
+- Maintained Azure-hosted SQL DBs, backups, system performance, and deployments.  
+
+**AT&T Global Information Solutions (NCR) – QA Engineer (2022–2023)**  
+- Delivered secure ATM/CRM rollouts across 10+ banks (HNB, HSBC, Commercial Bank, etc.).  
+- Specialized in system hardening, log analysis, troubleshooting, and compliance.  
+
+**Dialog Axiata PLC – Operational Executive (2022)**  
+- Managed customer support, data accuracy, escalations, and KPIs.  
+
+
+
 
 ---
 
