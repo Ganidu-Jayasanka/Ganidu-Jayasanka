@@ -28,7 +28,7 @@
 [![My Skills](https://skillicons.dev/icons?i=angular,dotnet,cs,html,css,js,bootstrap,ts,java,react,spring,ai,maven,mysql,nodejs)](https://skillicons.dev)
 </p>
 
-### Tools
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
 
 <p align="left">
 
