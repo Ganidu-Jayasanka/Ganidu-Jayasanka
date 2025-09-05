@@ -23,10 +23,13 @@
 
 <h3 align="center" > 🤝<picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> 🤝 </h3>
 <p align="center">
+<a href="mailto:ganidujayasanka@gmail.com" target="blank"><img align="center" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" alt="kaveendinethma" height="50" width="50" /></a>
 <a href="https://www.linkedin.com/in/ganidu-jayasanka/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="kaveendinethma" height="50" width="50" /></a>
 <a href="https://web.facebook.com/Ganidu01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kaveen dinethma" height="50" width="50" /></a>
 
 </p>
+
+
 
 <!-- RAINBOW LINE TOP -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
