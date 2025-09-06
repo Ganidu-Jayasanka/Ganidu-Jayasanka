@@ -74,8 +74,8 @@
 ### 🚀 Featured Project  
 
 
-<a href="https://github.com/Ganidu-Jayasanka/SCPMS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ganidu-Jayasanka&repo=SCPMS&theme=great-gatsby"/>
+<a href="https://github.com/Ganidu-Jayasanka/Smart_Car_Parking_Managemnt_System">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ganidu-Jayasanka&repo=Smart_Car_Parking_Managemnt_System&theme=great-gatsby"/>
 </a>
 
 <!-- RAINBOW LINE TOP -->
