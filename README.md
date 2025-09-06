@@ -49,13 +49,23 @@
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30"> Tech Stack  
 
 **Frontend Development**  
+
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,angular,react)](https://skillicons.dev)
 
 **Backend Development**  
+
 [![My Skills](https://skillicons.dev/icons?i=dotnet,cs,java,spring,nodejs,maven)](https://skillicons.dev)
 
 **Databases**  
-[![My Skills](https://skillicons.dev/icons?i=mysql,azure)](https://skillicons.dev)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,azure" />
+  <img 
+    src="https://upload.wikimedia.org/wikipedia/commons/4/41/Microsoft_SQL_Server_2025_icon.svg" 
+    height="48" 
+    width="48" 
+    style="margin-left:10px;" 
+  />
+</p>
 
 
 
