@@ -31,7 +31,7 @@
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ganidujayasanka@gmail.com" target="_blank">
   <img 
     align="center" 
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png"  
+    src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/6d935082-a6bb-4f5d-be13-87b821d8421c"  
     alt="Ganidu Jayasanka" 
     height="50" 
     width="50" 
