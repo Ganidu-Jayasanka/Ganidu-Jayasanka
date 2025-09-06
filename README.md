@@ -31,7 +31,7 @@
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ganidujayasanka@gmail.com" target="_blank">
   <img 
     align="center" 
-    src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/6d935082-a6bb-4f5d-be13-87b821d8421c"  
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png"  
     alt="Ganidu Jayasanka" 
     height="50" 
     width="50" 
@@ -67,6 +67,12 @@
 [![My Skills](https://skillicons.dev/icons?i=eclipse,figma,git,github,idea,postman,selenium,visualstudio,vscode,wordpress)](https://skillicons.dev)
 
 </p>
+
+### <picture> 
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width="50px">
+</picture> Software & Tools  
+
+[![My Skills](https://skillicons.dev/icons?i=eclipse,figma,git,github,idea,postman,selenium,visualstudio,vscode,wordpress)](https://skillicons.dev)
 
 <!-- RAINBOW LINE TOP -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
