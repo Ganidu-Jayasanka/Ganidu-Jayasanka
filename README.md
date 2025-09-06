@@ -74,6 +74,9 @@
 ### 🚀 Featured Project  
 
 
+<a href="https://github.com/Ganidu-Jayasanka/SCPMS">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ganidu-Jayasanka&repo=SCPMS&theme=great-gatsby"/>
+</a>
 
 <!-- RAINBOW LINE TOP -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
