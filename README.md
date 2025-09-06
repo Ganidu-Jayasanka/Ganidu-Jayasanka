@@ -68,11 +68,7 @@
 
 </p>
 
-### <picture> 
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width="50px">
-</picture> Software & Tools  
 
-[![My Skills](https://skillicons.dev/icons?i=eclipse,figma,git,github,idea,postman,selenium,visualstudio,vscode,wordpress)](https://skillicons.dev)
 
 <!-- RAINBOW LINE TOP -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
