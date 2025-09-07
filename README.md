@@ -86,8 +86,24 @@
 ### 🚀 Featured Project  
 
 
-<a href="https://github.com/Ganidu-Jayasanka/SCPMS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ganidu-Jayasanka&repo=SCPMS&theme=great-gatsby"/>
+<a href="https://github.com/Ganidu-Jayasanka/Asset_Inventory">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ganidu-Jayasanka&repo=Asset_Inventory&theme=great-gatsby"/>
+</a>
+
+<a href="https://github.com/Ganidu-Jayasanka/TicketSystem">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ganidu-Jayasanka&repo=TicketSystem&theme=great-gatsby"/>
+</a>
+
+<a href="https://github.com/Ganidu-Jayasanka/PizzaOrderingSystem">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ganidu-Jayasanka&repo=PizzaOrderingSystem&theme=great-gatsby"/>
+</a>
+
+<a href="https://github.com/Ganidu-Jayasanka/AuroraSkinCare">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ganidu-Jayasanka&repo=AuroraSkinCare&theme=great-gatsby"/>
+</a>
+
+<a href="https://github.com/Ganidu-Jayasanka/Smart_Car_Parking_Management_System">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ganidu-Jayasanka&repo=Smart_Car_Parking_Management_System&theme=great-gatsby"/>
 </a>
 
 <!-- RAINBOW LINE TOP -->
