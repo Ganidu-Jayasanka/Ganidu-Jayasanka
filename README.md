@@ -94,7 +94,9 @@
 <a href="https://github.com/Ganidu-Jayasanka/PizzaOrderingSystem">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ganidu-Jayasanka&repo=PizzaOrderingSystem&theme=great-gatsby"/>
 </a>
-
+  <a href="https://github.com/Ganidu-Jayasanka/AssetInventory">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ganidu-Jayasanka&repo=AssetInventory&theme=great-gatsby"/>
+</a>
 <a href="https://github.com/Ganidu-Jayasanka/AuroraSkinCare">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ganidu-Jayasanka&repo=AuroraSkinCare&theme=great-gatsby"/>
 </a>
