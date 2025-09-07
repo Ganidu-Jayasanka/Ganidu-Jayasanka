@@ -86,9 +86,6 @@
 ### 🚀 Featured Project  
 
 
-<a href="https://github.com/Ganidu-Jayasanka/Asset_Inventory">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ganidu-Jayasanka&repo=Asset_Inventory&theme=great-gatsby"/>
-</a>
 
 <a href="https://github.com/Ganidu-Jayasanka/TicketSystem">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ganidu-Jayasanka&repo=TicketSystem&theme=great-gatsby"/>
