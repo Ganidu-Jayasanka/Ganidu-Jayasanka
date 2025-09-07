@@ -101,9 +101,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ganidu-Jayasanka&repo=AuroraSkinCare&theme=great-gatsby"/>
 </a>
 
-<a href="https://github.com/Ganidu-Jayasanka/Smart_Car_Parking_Management_System">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ganidu-Jayasanka&repo=Smart_Car_Parking_Management_System&theme=great-gatsby"/>
-</a>
+
 
 <!-- RAINBOW LINE TOP -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
