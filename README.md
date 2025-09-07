@@ -91,8 +91,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ganidu-Jayasanka&repo=TicketSystem&theme=great-gatsby"/>
 </a> 
 <a href="https://github.com/Ganidu-Jayasanka/Smart_Car_Parking_Management_System">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ganidu-Jayasanka&repo=Smart_Car_Parking_Management_System&theme=great-gatsby"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ganidu-Jayasanka&repo=Smart_Car_Parking_Management_System&theme=great-gatsby&cache_seconds=3600"/>
 </a>
+
 
 <a href="https://github.com/Ganidu-Jayasanka/PizzaOrderingSystem">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ganidu-Jayasanka&repo=PizzaOrderingSystem&theme=great-gatsby"/>
