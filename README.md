@@ -104,7 +104,9 @@
 <a href="https://github.com/Ganidu-Jayasanka/AuroraSkinCare">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ganidu-Jayasanka&repo=AuroraSkinCare&theme=great-gatsby"/>
 </a>
-
+<a href="https://github.com/Ganidu-Jayasanka/EMS">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ganidu-Jayasanka&repo=EMS&theme=great-gatsby"/>
+</a>
 
 
 <!-- RAINBOW LINE TOP -->
