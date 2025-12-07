@@ -12,7 +12,7 @@
 <br>
 
 ### 👨‍💻 About Me
-- 💼 Software Engineer at **Colombo Lotus Tower**  
+- 💼 Software Engineer at **Abans Head Office**  
 - 🎓 **BSc (Hons) Computer Science (SE)** – Kingston University (First Class)  
 - 🌍 Based in **Colombo, Sri Lanka**   
 - 💡 Open to exciting opportunities in **Software Engineer / Full-Stack Developer / Web Developer**  
